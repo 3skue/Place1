@@ -622,12 +622,13 @@ zNLfaoZA///+//PAj5CH]]></BinaryString>
 				<bool name="Disabled">false</bool>
 				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
 				<Content name="LinkedSource"><null></null></Content>
-				<string name="Name">LocalScript</string>
+				<string name="Name">AAAAAAAAAA</string>
 				<token name="RunContext">0</token>
 				<string name="ScriptGuid">{f828edab-38f4-477c-96c0-e4e312f53374}</string>
 				<ProtectedString name="Source"><![CDATA[print("Oh boy it sure is a good day to not be virtualized!")
 
 task.wait(1)
+
 
 print("Or am I...")]]></ProtectedString>
 				<int64 name="SourceAssetId">-1</int64>
@@ -1208,7 +1209,7 @@ print("Or am I...")]]></ProtectedString>
 					<bool name="Disabled">false</bool>
 					<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
 					<Content name="LinkedSource"><null></null></Content>
-					<string name="Name">LocalScript</string>
+					<string name="Name">CCCCCCCCCCCCCCCCCCCC</string>
 					<token name="RunContext">0</token>
 					<string name="ScriptGuid">{6c97a40d-c5a1-4cf6-9a95-cf3913f88e89}</string>
 					<ProtectedString name="Source"><![CDATA[script.Parent.Equipped:Connect(function()
@@ -1466,7 +1467,7 @@ end)]]></ProtectedString>
 						<bool name="Disabled">false</bool>
 						<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
 						<Content name="LinkedSource"><null></null></Content>
-						<string name="Name">LocalScript</string>
+						<string name="Name">BBBBBBBBBBBBBBBBBBB</string>
 						<token name="RunContext">0</token>
 						<string name="ScriptGuid">{38008524-d911-42e1-84cc-c103f33ceca9}</string>
 						<ProtectedString name="Source"><![CDATA[local watermark = script.Parent
